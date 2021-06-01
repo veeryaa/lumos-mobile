@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lumos-mobile",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
