@@ -8,15 +8,12 @@ import {
   IonText,
   IonButtons,
   IonInput,
-  IonMenu,
   IonList,
   IonLabel,
   IonBackButton,
-  IonCol,
   useIonViewDidEnter,
 } from '@ionic/react';
-import { Storage } from '@ionic/storage';
-import React, { SyntheticEvent, useState } from 'react';
+import React, {  useState } from 'react';
 import { useParams } from 'react-router';
 import './style.css';
 
